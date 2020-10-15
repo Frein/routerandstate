@@ -1,0 +1,22 @@
+{
+  "name": "react-router-v4-demo-forked",
+  "version": "0.0.5",
+  "description": "This is a demo for React router v4. You can read more about this at SitePoint.com\n",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/nn8x24vm60",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "^5.2.0",
+    "react-dom": "^16.14.0",
+    "react": "16.14.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
